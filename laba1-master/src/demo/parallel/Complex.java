@@ -46,7 +46,7 @@ package demo.parallel;
  */
 public class Complex {
     
-    private double re;   // the real part
+     private double re;   // the real part
     private double im;   // the imaginary part
 
     /** 
